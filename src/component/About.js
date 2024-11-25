@@ -9,7 +9,7 @@ import EatExpressFevicon from '../../public/img/EatExpress-Logo.png';
 const About = () => {
   return (
     <div className="mt-[8rem]">
-      {/* <UserClass name={"Abhinandan"} location={"Punjab"}/> */}
+      {/* <UserClass name={"Karan Singh"} location={"Punjab"}/> */}
         
             <div className="max-w-md mx-auto bg-white rounded-xl shadow-md p-4 mb-4">
             <h1 className="font-bold text-2xl text-center">About</h1>
